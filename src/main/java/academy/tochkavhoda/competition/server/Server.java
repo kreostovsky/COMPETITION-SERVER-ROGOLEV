@@ -1,7 +1,5 @@
 package academy.tochkavhoda.competition.server;
 
-import academy.tochkavhoda.competition.ServerResponse;
-
 public class Server {
 
 

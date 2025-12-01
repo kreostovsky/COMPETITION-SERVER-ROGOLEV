@@ -1,4 +1,4 @@
-package academy.tochkavhoda.competition;
+package academy.tochkavhoda.competition.server;
 
 
 public class ServerResponse {
